@@ -6,3 +6,9 @@
 #############################
 
 # Write code here:
+print("weeeeee")
+
+name = input("please enter name ")
+print(f"byeee {name}")
+#print(name)
+
